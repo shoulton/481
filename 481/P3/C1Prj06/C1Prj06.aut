@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2020/05/04 21:01:06 (MDT)</CreatedDate>
+  <ModifiedDate>2020/05/04 21:01:10 (MDT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.15.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.15.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>c1prj06_20200504_210106</Name>
+    <DisplayName>C1Prj06</DisplayName>
+    <Number>C1Prj06</Number>
+    <Examiner>Sarah Houlton</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>

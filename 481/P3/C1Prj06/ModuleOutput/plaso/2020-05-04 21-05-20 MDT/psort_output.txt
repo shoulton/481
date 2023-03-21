@@ -1,0 +1,8 @@
+Processing completed.
+
+******************************** Export results ********************************
+      Events processed : 52
+   Events MACB grouped : 42
+       Events filtered : 0
+Events from time slice : 0
+--------------------------------------------------------------------------------
